@@ -1,0 +1,3 @@
+Projeto de Ransomware feito no Bootcamp Santander Cybersecurity
+
+Flag: "Thales Medeiros, futuro Analista de cybersecurity."
